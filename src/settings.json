@@ -1,0 +1,40 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Join us this Friday for an exclusive event!",
+        "linkText": "RSVP Now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Our product bridges the gap by making it accessible to share and connect with ease. Experience the difference with our intuitive and user-friendly design.",
+        "title": "Connecting Knowledge Seamlessly"
+      }
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Ignite Your Tech Passion",
+  "subtitle": "Join a community of innovators and share your technical wisdom to inspire the world."
+}
